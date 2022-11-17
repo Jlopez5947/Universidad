@@ -1,4 +1,4 @@
-#language: es
+#language: es 
 Característica: Puntos Colombia
     Reglas:
 
